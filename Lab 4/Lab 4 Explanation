@@ -1,0 +1,4 @@
+The purpose of this lab was to implement 3 functions on the Atmega128 chip: a 16-bit addition function, a 16-bit subtraction 
+function, and a 24-bit multiplication function. All three functions use the values stored in program memory to perform
+their respective calculations, placing the resulting value in a result data space in data memory. This lab teaches students
+how to manipulate data memory, program memory, and how to implement multi-bit operations from scratch in assembly. 
