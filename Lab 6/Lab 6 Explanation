@@ -1,0 +1,3 @@
+The purpose of this lab was to introduce the students to external interrupts and how to use them. In this
+lab, students were to use external interrupts to perform the same task as the Lab 1 Program (basic
+Bumpbot behavior). Three interrupts were used in this lab: INT3, INT1, and INT0. 
