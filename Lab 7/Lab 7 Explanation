@@ -1,0 +1,9 @@
+The purpose of this lab was to implement a game of rock paper scissors between two Atmega32U4
+microcontrollers using USART (asynchronous mode) communication protocol. This lab also instructs the students
+to manipulate data memory (specifically of the data memory corresponding to the LCD display), move data from
+program memory to data memory, and to implement a normal mode counter using the 16 bit timer/counter 1. The
+students must also either use interrupts or polling for 4 separate events: data reception, data transmission, and
+two button inputs. The LCD screen should display different messages based on which portion of the game is
+currently being played, including a start message, a win/lose message, and the opponent’s gesture. 
+
+My implementation of this lab uses polling for UART transmission, and interrupts for UART reception and the three push buttons. 
