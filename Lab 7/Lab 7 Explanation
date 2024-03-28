@@ -6,4 +6,4 @@ students must also either use interrupts or polling for 4 separate events: data 
 two button inputs. The LCD screen should display different messages based on which portion of the game is
 currently being played, including a start message, a win/lose message, and the opponent’s gesture. 
 
-My implementation of this lab uses polling for UART transmission, and interrupts for UART reception and the three push buttons. 
+My implementation of this lab uses polling for UART transmission and interrupts for UART reception and button inputs. 
