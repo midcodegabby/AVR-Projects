@@ -1,0 +1,6 @@
+The purpose of this lab was to implement a message onto the ATmega32U’s (hereby referred to as MC)
+LCD screen using data transfers, an LCD driver program. Additional functionality included the ability to clear the
+LCD screen and scroll the message across the screen left to right. The main data transfer method used in this lab
+was from program memory to data memory (this transfer requires an intermediary register, which was the main
+difficulty in this lab). This lab was supposed to introduce the students to multi-stage data transfer to implement a
+visual result (text on the LCD screen).
