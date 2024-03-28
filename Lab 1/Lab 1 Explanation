@@ -1,0 +1,8 @@
+The purpose of this lab is to familiarize students with assembly code, and its complexity/relation to the C
+programming language. This is done by having students implement small changes to a pre-existing assembly
+program, building that program into a hex file, and then testing it by downloading it onto the ATmega32U (called
+MC from now on) Microcontroller. Then the students must complete the same task as the assembly program but
+in C from scratch. The contrast between the two implementations allows the students to understand how C can be
+abstracted into assembly, and how C runs “under the hood”. Another purpose of this lab is to learn how to interact
+with the IDE used for programming the ATmega32U (specifically, converting a .asm file to hex by building it), and
+file management within that IDE. 
