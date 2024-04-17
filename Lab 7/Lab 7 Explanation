@@ -1,5 +1,8 @@
 The following link is a demonstration of the Remotely Communicated Rock Paper Scissors project:
+
+--------------------------------------------------------------------------------------------------------------------------------
 https://youtube.com/shorts/snqRJ8RMxJ4
+--------------------------------------------------------------------------------------------------------------------------------
 
 The purpose of this lab was to implement a game of rock paper scissors between two Atmega32U4
 microcontrollers using USART (asynchronous mode) communication protocol. This lab also instructs the students
@@ -10,4 +13,3 @@ two button inputs. The LCD screen should display different messages based on whi
 currently being played, including a start message, a win/lose message, and the opponent’s gesture. 
 
 My implementation of this lab uses polling for UART transmission and interrupts for UART reception and button inputs. 
-
